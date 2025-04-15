@@ -51,7 +51,7 @@ iOS application designed to assist small and medium enterprises in organizing th
 
 ### Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/abdullah-ahmed-0671/](https://linkedin.com/in/abdullah-ahmed-0671/)  
+- **LinkedIn**: [linkedin.com/in/abdullah-ahmed-0671/](https://linkedin.com/in/abdullah-ahmed-0671)  
 - **Email**: [abdullah.ahmed0671@gmail.com](mailto:abdullah.ahmed0671@gmail.com)  
 - **GitHub**: [github.com/abdullah-ahmed-0671](https://github.com/abdullah-ahmed-0671)
 

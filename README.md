@@ -1,4 +1,6 @@
-# Abdullah Ahmed
+<p align="center">
+  <h1>Abdullah Ahmed</h1>
+</p>
 
 ## Senior Mobile Engineer | Innovating Mobile Solutions with a Focus on User-Centric Design
 

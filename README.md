@@ -64,7 +64,7 @@ Used by 1,000+ SMEs across the U.S.; enabled 40% efficiency gains in operations 
 ### Connect With Me
 
 - LinkedIn: [linkedin.com/in/abdullah-ahmed-0671/](https://linkedin.com/in/abdullah-ahmed-0671/)  
-- Email: suleman.ali303@gmail.com  
+- Email: [abdullah.ahmed0671@gmail.com](mailto:abdullah.ahmed0671@gmail.com)
 - GitHub: [github.com/abdullah-ahmed-0671](https://github.com/abdullah-ahmed-0671)
 
 ### Open to Collaboration

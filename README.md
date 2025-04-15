@@ -1,72 +1,58 @@
 # Abdullah Ahmed
 
-## Senior Mobile Engineer | Building Cutting-Edge Mobile Solutions
+## Senior Mobile Engineer | Innovating Mobile Solutions with a Focus on User-Centric Design
 
-Welcome to my GitHub profile. I am a Senior Mobile Engineer with over 10 years of experience specializing in the development of high-performance, user-focused mobile applications. I am dedicated to delivering seamless and scalable mobile solutions that combine clean architecture with intuitive user experiences.
+Welcome to my GitHub! I am a Senior Mobile Engineer with over a decade of experience crafting high-performance, scalable mobile applications. My expertise spans both native and cross-platform development, with a keen focus on delivering seamless, intuitive user experiences backed by solid architecture.
 
-### About Me
+I am passionate about adopting cutting-edge technologies and methodologies to drive efficiency, enhance app performance, and elevate the user experience. I strive to build maintainable, testable, and robust mobile solutions that meet both business and user needs.
 
-Throughout my career, I have worked extensively with both native and cross-platform technologies. I focus on writing maintainable, testable code and leveraging modern development practices to build impactful mobile apps.
+### Key Skills & Expertise
 
-Key areas of expertise include:
+- **Native iOS Development**: Proficient in Swift, Objective-C, UIKit, SwiftUI, Core Data, and Combine.
+- **Modern iOS Frameworks**: Experience with CoreLocation, MapKit, ARKit, AVFoundation, and more.
+- **Flutter & Dart**: Building beautiful, high-performance cross-platform apps with Flutter, delivering on both iOS and Android.
+- **Real-Time Communication**: Expertise in WebRTC, XMPP, and real-time chat integration.
+- **API Integration & Design**: Proficient in designing and integrating RESTful APIs, ensuring seamless communication between client and server.
+- **Mobile Architecture**: Strong focus on clean, modular architecture to support scalable, maintainable code.
+- **Cross-Platform Development**: Experience in Flutter, ensuring apps run efficiently on both iOS and Android platforms.
 
-- Swift and Objective-C
-- UIKit, SwiftUI, Core Data, Combine
-- CoreLocation, MapKit, ARKit, AVFoundation
-- Real-time communication using WebRTC and XMPP
-- RESTful API design and integration
-- Experience with banking, e-commerce, social, and location-based apps
+### Core Technologies & Tools
 
-I continuously explore emerging technologies and methodologies to enhance mobile development workflows and product quality.
+**Mobile Development**  
+- **iOS**: Swift, Objective-C, UIKit, SwiftUI, Core Data, Combine  
+- **Flutter**: Dart, Flutter SDK, State Management (Provider, Riverpod, Bloc)  
+- **Android**: Java, Kotlin (basic familiarity)  
+- **Real-Time Communication**: WebRTC, XMPP  
+- **UI/UX Design**: Figma, Sketch, Adobe XD  
 
-### Current Tech Stack
+**Backend & API Integration**  
+- Node.js, Django, PHP  
+- Firebase, AWS, Azure  
 
-**iOS Development**
-
-- Swift, Objective-C  
-- UIKit, SwiftUI, Core Data, Combine  
-- CoreLocation, MapKit, ARKit  
-- AVFoundation, Core Animation, Core Bluetooth  
-- SpriteKit, SceneKit  
-- URLSession and Network framework  
-
-**Backend & API Integration**
-
-- Node.js
-- Django, PHP
-- Firebase, AWS, Azure
-
-**Tools & Workflow**
-
+**Tools & Workflow**  
 - Git, GitHub, Bitbucket  
-- Postman  
 - JIRA, Trello  
-- Figma, Sketch, Adobe XD  
+- Postman  
+- CI/CD with GitHub Actions, Jenkins, Fastlane  
 
-**Other Technologies**
+**Database & Cloud**  
+- Firebase, PostgreSQL, MariaDB  
+- Docker, Kubernetes for deployment  
 
-- Angular, HTML5, CSS3, Bootstrap  
-- Docker, Kubernetes  
-- SQL, PostgreSQL, MariaDB  
-
-### Messaging Experience
-
-I have implemented real-time voice chat using bluetooth supporting seamless and secure communication across devices applications.
-
-### Featured Projects
+### Notable Projects
 
 **[EDYOU](https://apps.apple.com/us/app/edyou/id1586941066)**  
-A social and marketplace platform for students. Led full iOS lifecycle, resulting in 500K+ installs and a 5.0 App Store rating.
+Social and marketplace platform for college students.
 
 **[CyBase](https://apps.apple.com/us/app/cybase-usa/id1604716807)**  
-Used by 1,000+ SMEs across the U.S.; enabled 40% efficiency gains in operations through mobile-first CRM and inventory tools.
+iOS application designed to assist small and medium enterprises in organizing their business operations effectively and easily.
 
 ### Connect With Me
 
-- LinkedIn: [linkedin.com/in/abdullah-ahmed-0671/](https://linkedin.com/in/abdullah-ahmed-0671/)  
-- Email: [abdullah.ahmed0671@gmail.com](mailto:abdullah.ahmed0671@gmail.com)
-- GitHub: [github.com/abdullah-ahmed-0671](https://github.com/abdullah-ahmed-0671)
+- **LinkedIn**: [linkedin.com/in/abdullah-ahmed-0671/](https://linkedin.com/in/abdullah-ahmed-0671/)  
+- **Email**: [abdullah.ahmed0671@gmail.com](mailto:abdullah.ahmed0671@gmail.com)  
+- **GitHub**: [github.com/abdullah-ahmed-0671](https://github.com/abdullah-ahmed-0671)
 
 ### Open to Collaboration
 
-I am open to collaborating on open-source projects, especially in Swift, Python, Node.js, and PHP. Feel free to connect if you have an interesting idea or project in mind.
+I am always open to collaborating on exciting open-source projects and innovative mobile apps, particularly those that focus on Flutter, Swift, and backend technologies like Node.js and Python. Feel free to reach out if you're interested in working together!
